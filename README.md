@@ -1,7 +1,7 @@
 # vue-side-bar
 A simple, menu side bar for VueJS (2.x) 
 
-![Basic Screenshot](https://raw.githubusercontent.com/heberalmeida/vue-side-bar/HEAD/README/images/screenshot.png)
+![Basic Screenshot](https://raw.githubusercontent.com/heberalmeida/vue-side-bar/HEAD/README/image/screenshot.png)
 
 [Demo Site Font awesome](https://jsfiddle.net/sistemaweb/vuupkcb2/)
 
