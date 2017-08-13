@@ -1,7 +1,7 @@
 {
   "name": "vue-side-bar",
   "description": "A simple, menu side bar for VueJS (2.x)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Heber Almeida <eu@heber.com.br>",
   "main": "dist/vue-side-bar.js",
   "scripts": {
