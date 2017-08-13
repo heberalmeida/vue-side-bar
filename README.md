@@ -24,9 +24,9 @@ npm install --save vue-side-bar
 import into project:
 ```
 import Vue from 'vue'
-import VueMenuOverlay from 'vue-side-bar'
+import VueSideBar from 'vue-side-bar'
 
-Vue.use(VueMenuOverlay)
+Vue.use(VueSideBar)
 ```
 
 ## Example Usage
@@ -40,8 +40,8 @@ Vue.use(VueMenuOverlay)
 
 <script>
   import Vue from 'vue'
-  import VueMenuOverlay from 'vue-side-bar'
-  Vue.use(VueMenuOverlay)
+  import VueSideBar from 'vue-side-bar'
+  Vue.use(VueSideBar)
   export default {
     data(){
       return {
